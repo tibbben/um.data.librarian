@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+						<style type="text/css">
+							.st0{fill:none;stroke:#77933C;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:10,10;}
+							.st1{fill:none;stroke:#404040;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st2{fill:none;stroke:#404040;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:10,10;}
+							.st3{fill:none;stroke:#385D8A;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:10,10;}
+							.st4{fill:none;stroke:#E46C0A;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:10,10;}
+							.st5{fill:none;stroke:#385D8A;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st6{fill:none;stroke:#E46C0A;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st7{fill:none;stroke:#E46C0A;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st8{fill:none;stroke:#77933C;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E0EC;}
+							.st10{fill:none;stroke:#B3A2C7;stroke-width:0.48;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#CCC1DA;}
+							.st12{fill:none;stroke:#B3A2C7;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#C6D9F1;}
+							.st14{fill:none;stroke:#8EB4E3;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st15{font-family:'Arial'; font-weight: bold;}
+							.st16{font-size:32.04px;}
+							.st17{letter-spacing:-4;}
+							.st18{fill:#403152;}
+							.st19{font-family:'Arial';}
+							.st20{font-size:20.04px;}
+							.st21{fill:#254061;}
+							.st22{letter-spacing:-1;}
+							.st23{fill:#604A7B;}
+							.st24{font-size:15.96px;}
+							.st25{letter-spacing:-3;}
+							.st26{fill:#77933C;}
+							.st27{fill:#376092;}
+							.st28{fill:#E46C0A;}
+							.st29{fill:#404040;}
+							.st30{font-size:20px;}
+							.st31{fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:101600,76200;}
+							.st32{font-size:27.96px;}
+							.st40{fill:none;stroke:#404040;stroke-width:2.04;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:10,10;}
+							.st41{fill:none;stroke:#404040;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st42{fill:none;stroke:#404040;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:10;}
+							.st43{fill-rule:evenodd;clip-rule:evenodd;fill:#FFF7CE;stroke:#FFC643;stroke-width:0.48;stroke-miterlimit:10;}
+							.st44{fill:#E46C0A;}
+							.st45{font-family:'Arial'; font-weight: bold;}
+							.st46{font-size:16px;}
+						</style>
+						<a class="fragment" >
+							<text transform="matrix(1 0 0 1 115 60)"><tspan x="0" y="0" class="st15 st30">collaboration</tspan></text>
+							<path class="st1" d="M233.7,79.4c12.2-4,33.8,5.8,44.8-0.8c11-6.6,13.9-33.8,21.3-38.9c7.4-5.2,15.2,1.4,23,8"/>
+						</a>
+						<a class="fragment" >
+							<text transform="matrix(1 0 0 1 746.6025 329.9512)"><tspan x="0" y="0" class="st15 st30">conversation</tspan></text>
+							<path class="st2" d="M828.9,306.3c16.3-6.9,38.4-7.8,43.5-16.5c5.1-8.6-14.1-23.3-13-35.3c1.1-12,8.6-19.1,19.6-36.7"/>
+						</a>
+						<text class="fragment" transform="matrix(1 0 0 1 539.7813 480.8809)"><tspan x="0" y="0" class="st15 st32">community</tspan></text>
+						<a class="fragment fade-out">
+							<path class="st0" d="M626.3,179c40.9,0.9,73.3-7.1,86.4,4.8c13.1,11.9,21.6,36.8-8,66.4c-29.6,29.6-72.7,38.9-102.4,44 c-29.7,5.1-34.4,8.8-76-13.6c-41.6-22.4-116.5-98.2-173.6-120.7c-57.1-22.5-112.9-18.5-168.8-14.4"/>
+							<path class="st8" d="M273.2,406.7c-35.9-1.4-68.9-5.2-108-24.8c-39.1-19.5-110.6-54.8-126.4-92.5C22.9,251.7,40.4,180.3,70,155.5 c29.6-24.7,102.4-12,146.4-14.4s75.7-6.1,117.6,0s84.8,30.5,133.6,36.8c48.8,6.3,118.3-0.1,159.2,0.8c40.9,0.9,73.3-7.1,86.4,4.8"/>
+							<text transform="matrix(1 0 0 1 57.0527 199.1641)"><tspan x="0" y="0" class="st26 st15 st20">data </tspan></text>
+							<text id="XMLID_15_" transform="matrix(1 0 0 1 48.6875 223.1484)"><tspan x="0" y="0" class="st26 st15 st20">governance</tspan></text>
+						</a>
+						<a class="fragment fade-out">
+							<path class="st4" d="M281.5,398.2c3.8,4.3,24.3,11.3-11.2-6.4c-35.4-17.7-54-38.9-57.6-66.4c-3.6-27.5,27.2-68.1,36-98.4 c8.8-30.3,5.6-31.2-16.8-83.2"/>
+							<path class="st6" d="M183.6,373.8c11.2-2.8,31.2,8.1,44.8,4s13.9-24.4,36.8-28.8c22.9-4.4,78.1-0.1,100.8,2.4s29.5,5.5,35.2,12.8 c5.7,7.3,0.7,16.7-0.8,31.2s28.1,46.7-8,56c-36.1,9.3-170.2,9.5-208.8,0s-22.5-44-22.4-56.8S172.4,376.6,183.6,373.8L183.6,373.8z" />
+							<path class="st4" d="M246,146.7c23.5,1.6,23.9-5.6,43.2-1.6c19.3,4,42.7,7.5,72.8,25.6c30.1,18.1,108,83.2,108,83.2 c28.1,21.6,39.6,31.1,56,36.8c16.4,5.7,29.1,1.8,42.4-2.4"/>
+							<path class="st7" d="M558,291.5c12.9,16.1,22.8,41.1,45.6,57.6c22.8,16.5,33.9,22.7,91.2,41.6"/>
+							<path class="st7" d="M718,168.4c14.8,8.6,29,34.5,24.5,52c-4.5,17.5-25.1,39.7-51.5,52.8s-58.2,24.4-107.1,25.6 c-48.8,1.2-68.7-12.6-85.1,0.8"/>
+							<path class="st7" d="M521.3,299.4c13.6,8.6,16.4,10,16.8,32s-8.4,44.1-33.6,52c-25.2,7.9-88.2-9.2-117.6-4.8 c-29.5,4.4-44.1,17.8-59.2,31.2"/>
+							<path class="st7" d="M674.8,398.8c-46.4-2.7-42.4-45.5-135.2-18.5s-103.7-15.6-161.6-4"/>
+							<path class="st7" d="M510.8,293.9c-30.3-2.7-76.6-10.3-116.8-7.2s-71.7,21.2-85.6,40s-7.6,45.2,2.4,72.8"/>
+							<path class="st7" d="M534.8,290.8c15.8,8.3,27.7,36.4,24.8,58.4c-2.9,22-16.3,55.7-42.4,73.6c-26.1,17.9-47.7,28.7-114.4,33.6 c-66.7,4.9-50.1,0.7-64.8-8.8c-14.7-9.5-29.5-31.5-23.2-48"/>
+							<text id="XMLID_17_" transform="matrix(1 0 0 1 395.4844 308.5078)"><tspan x="0" y="0" class="st28 st15 st20">pilot</tspan></text>
+							<text id="XMLID_16_" transform="matrix(1 0 0 1 373.9219 332.5156)"><tspan x="0" y="0" class="st28 st15 st20">projects</tspan></text>
+						</a>
+						<a class="fragment fade-out">
+							<path class="st3" d="M272.6,398.1c3.8,4.3,29.9,10.5-5.6-7.2s-57.7-38.5-63.2-65.6c-5.5-27.1,28.3-66.7,30.4-96.8 c2.1-30.1-2.4-30.4-17.6-84"/>
+							<path class="st3" d="M284.2,400.4c3.8,4.3,12.5,7.5,30.4,8.8c17.9,1.3,42.3-9.1,76.8-0.8c34.5,8.3,62.8,2,20-26.4"/>
+							<path class="st3" d="M291.9,410.1c3.8,4.3-2.4-6.3,16.8-3.2c19.2,3.1,66,19.9,98.4,21.7c32.4,1.7,46.8,1.7,96-11.2 c49.2-13,104.8-31.3,252-8.8"/>
+							<path class="st5" d="M290,401.1c3.8,4.3,29.9,10.5-5.6-7.2c-35.5-17.7-59.1-42.4-63.2-65.6c-4.1-23.2,10.4-61.2,38.4-73.6 c28-12.4,93.6-4,129.6-0.8c36,3.2,48.8-3.3,86.4,20c37.6,23.3,29.6,12.9,38.4,19.2"/>
+							<path class="st3" d="M290.3,406.2c3.8,4.3-5.6-7.6,12-4.8c17.6,2.8,57.1,17.9,93.6,21.6s64.8,4.9,120.8-18.4s334.4-95.2,229.6-217.7 "/>
+							<text transform="matrix(1 0 0 1 164.1699 259.7734)"><tspan x="0" y="0" class="st27 st15 st20">data</tspan></text>
+							<text id="XMLID_13_" transform="matrix(1 0 0 1 80.0547 283.7734)"><tspan x="0" y="0" class="st27 st15 st20">management</tspan></text>
+							<text id="XMLID_14_" transform="matrix(1 0 0 1 85.2109 307.7734)"><tspan x="0" y="0" class="st27 st15 st20">curriculum</tspan></text>
+						</a>
+						<path class="st1" d="M675.8,406.5C631.6,392,615.5,367,540.6,388s-100.8-17.1-155.7-1.1"/>
+						<path class="st2" d="M254.8,147.3c23.5,1.6,23.9-5.6,43.2-1.6c19.3,4,42.7,7.5,72.8,25.6c30.1,18.1,108,83.2,108,83.2 c28.1,21.6,39.6,31.1,56,36.8c16.4,5.7,29.1,1.8,42.4-2.4"/>
+						<path class="st1" d="M527.6,288.3c15.8,8.3,27.7,36.4,24.8,58.4c-2.9,22-16.3,55.7-42.4,73.6c-26.1,17.9-47.7,28.7-114.4,33.6 c-66.7,4.9-50.1,0.7-64.8-8.8c-14.7-9.5-29.5-31.5-23.2-48"/>
+						<path class="st1" d="M518.1,293.7c13.6,8.6,16.4,10,16.8,32c0.4,22-8.4,44.1-33.6,52c-25.2,7.9-89.6-8.7-117.6-4.8 c-28,3.9-35.3,14.6-50.4,28"/>
+						<path class="st1" d="M300.3,403.5c3.8,4.3,29.9,10.5-5.6-7.2s-59.1-42.4-63.2-65.6c-4.1-23.2,10.4-61.2,38.4-73.6s93.6-4,129.6-0.8" />
+						<path class="st1" d="M686.7,163.6c14.8,8.6,29,34.5,24.5,52c-4.5,17.5-25.1,39.7-51.6,52.8c-26.4,13.1-58.2,24.4-107.1,25.6"/>
+						<path class="st1" d="M554.1,298c12.9,16.1,22.8,41.1,45.6,57.6c22.8,16.5,33.9,22.7,91.2,41.6"/>
+						<a class="fragment">	
+							<path id="XMLID_24_" class="st40" d="M275.7,296.8c23.5,1.6,19.8-6.6,40.1-8.4c19.7-1.7,38.2,6.3,70.7,19.8 c27.6,11.4,46.7,15,85.7,15.6c35.3,0.5,74.9,3,123.4-7.2c94.5-19.8,151.6-62.9,121.6-130.6"/>
+							<path id="XMLID_23_" class="st40" d="M275,294.2c23.5,1.6,19.8-2.7,40.2-4.5c19.7-1.7,41.2,4.6,71.3,22.8 c30.1,18.1,64.6,40.4,85.7,49.7c32.3,14.3,71.5,37.1,88.7,39.5c29.4,4.2,68.8,4.2,82.1,0"/>
+							<path id="XMLID_26_" class="st42" d="M183.6,373.8c11.2-2.8,34.4-73.4,47.8-68.7c10.2,3.6,41.6-6.7,46.1,16.2 c6,30.6,65.8,27.5,88.5,30.1s29.5,5.5,35.2,12.8c5.7,7.3,0.7,16.7-0.8,31.2s28.1,46.7-8,56c-36.1,9.3-170.2,9.5-208.8,0 s-22.5-44-22.4-56.8S172.4,376.6,183.6,373.8L183.6,373.8z"/>
+							<path id="XMLID_21_" class="st40" d="M233.8,283c31.8-50.3,51.5-73.1,14.4-131.2"/>
+							<path id="XMLID_20_" class="st41" d="M300.3,403.5c3.8,4.3,29.9,10.5-5.6-7.2s-45.4-38.8-45.4-62.3c0-24.6,12.6-48.5,55.1-54.5 c42.1-5.9,140.8,9.4,176.8,12.6"/>
+							<path class="st41" d="M300.3,403.5c3.8,4.3,29.9,10.5-5.6-7.2s-59.1-42.4-63.2-65.6c-4.1-23.2,10.4-61.2,38.4-73.6s93.6-4,129.6-0.8" />
+							<path id="XMLID_22_" class="st43" d="M190.5,297.4c0-10.7,27.5-19.4,61.5-19.4s61.5,8.7,61.5,19.4c0,10.7-27.5,19.4-61.5,19.4 S190.5,308.1,190.5,297.4L190.5,297.4z"/>
+							<text id="XMLID_1_" transform="matrix(1 0 0 1 198 303.6487)" class="st44 st45 st46">Data Librarian</text>
+						</a>
+						<path class="st9" d="M185,451.5c0-9,46.4-16.3,103.6-16.3s103.6,7.3,103.6,16.3c0,9-46.4,16.3-103.6,16.3S185,460.6,185,451.5 L185,451.5z"/>
+						<path class="st10" d="M185,451.5c0-9,46.4-16.3,103.6-16.3s103.6,7.3,103.6,16.3c0,9-46.4,16.3-103.6,16.3S185,460.6,185,451.5 L185,451.5z"/>
+						<path class="st9" d="M263.3,350.1c0-9,23.2-16.3,51.7-16.3c28.6,0,51.7,7.3,51.7,16.3c0,9-23.2,16.3-51.7,16.3 C286.4,366.5,263.3,359.2,263.3,350.1L263.3,350.1z"/>
+						<path class="st10" d="M263.3,350.1c0-9,23.2-16.3,51.7-16.3c28.6,0,51.7,7.3,51.7,16.3c0,9-23.2,16.3-51.7,16.3 C286.4,366.5,263.3,359.2,263.3,350.1L263.3,350.1z"/>
+						<path class="st9" d="M345.7,380.4c0-9,23.2-16.3,51.7-16.3s51.7,7.3,51.7,16.3c0,9-23.2,16.3-51.7,16.3S345.7,389.4,345.7,380.4 L345.7,380.4z"/>
+						<path class="st10" d="M345.7,380.4c0-9,23.2-16.3,51.7-16.3s51.7,7.3,51.7,16.3c0,9-23.2,16.3-51.7,16.3S345.7,389.4,345.7,380.4 L345.7,380.4z"/>
+						<path class="st9" d="M123.6,377.5c0-9,23.1-16.3,51.7-16.3s51.7,7.3,51.7,16.3c0,9-23.1,16.3-51.7,16.3S123.6,386.5,123.6,377.5 L123.6,377.5z"/>
+						<path class="st10" d="M123.6,377.5c0-9,23.1-16.3,51.7-16.3s51.7,7.3,51.7,16.3c0,9-23.1,16.3-51.7,16.3S123.6,386.5,123.6,377.5 L123.6,377.5z"/>
+						<path class="st11" d="M627.8,399.5c0-17.6,62.5-31.9,139.5-31.9s139.5,14.3,139.5,31.9s-62.5,31.9-139.5,31.9 S627.8,417.1,627.8,399.5L627.8,399.5z"/>
+						<path class="st12" d="M627.8,399.5c0-17.6,62.5-31.9,139.5-31.9s139.5,14.3,139.5,31.9s-62.5,31.9-139.5,31.9 S627.8,417.1,627.8,399.5L627.8,399.5z"/>
+						<path class="st11" d="M566.7,178.5c0-11.3,62.5-20.5,139.5-20.5s139.5,9.2,139.5,20.5S783.2,199,706.2,199S566.7,189.8,566.7,178.5 L566.7,178.5z"/>
+						<path class="st12" d="M566.7,178.5c0-11.3,62.5-20.5,139.5-20.5s139.5,9.2,139.5,20.5S783.2,199,706.2,199S566.7,189.8,566.7,178.5 L566.7,178.5z"/>
+						<path class="st13" d="M337,254c0-9.4,26.6-17.1,59.3-17.1s59.3,7.7,59.3,17.1c0,9.4-26.6,17.1-59.3,17.1S337,263.5,337,254L337,254z "/>
+						<path class="st14" d="M337,254c0-9.4,26.6-17.1,59.3-17.1s59.3,7.7,59.3,17.1c0,9.4-26.6,17.1-59.3,17.1S337,263.5,337,254L337,254z "/>
+						<path class="st13" d="M468,288.7c0-9.4,26.6-17.1,59.4-17.1c32.8,0,59.4,7.7,59.4,17.1c0,9.4-26.6,17.1-59.4,17.1 C494.6,305.8,468,298.1,468,288.7L468,288.7z"/>
+						<path class="st14" d="M468,288.7c0-9.4,26.6-17.1,59.4-17.1c32.8,0,59.4,7.7,59.4,17.1c0,9.4-26.6,17.1-59.4,17.1 C494.6,305.8,468,298.1,468,288.7L468,288.7z"/>
+						<path class="st11" d="M89.9,142.7c0-11.3,52.8-20.5,118-20.5s118,9.2,118,20.5s-52.8,20.5-118,20.5S89.9,154,89.9,142.7L89.9,142.7z "/>
+						<path class="st12" d="M89.9,142.7c0-11.3,52.8-20.5,118-20.5s118,9.2,118,20.5s-52.8,20.5-118,20.5S89.9,154,89.9,142.7L89.9,142.7z "/>
+						<path class="st11" d="M214.1,404.5c0-11.3,31.2-20.5,69.8-20.5s69.8,9.2,69.8,20.5S322.4,425,283.9,425S214.1,415.8,214.1,404.5 L214.1,404.5z"/>
+						<path class="st12" d="M214.1,404.5c0-11.3,31.2-20.5,69.8-20.5s69.8,9.2,69.8,20.5S322.4,425,283.9,425S214.1,415.8,214.1,404.5 L214.1,404.5z"/>
+						<text transform="matrix(1 0 0 1 483.7578 101.7871)"><tspan x="0" y="0" class="st15 st16 st17">Data Curation at UM</tspan></text>
+						<text id="XMLID_12_" transform="matrix(1 0 0 1 125.0469 150.7422)"><tspan x="0" y="0" class="st18 st19 st20">Office of Research</tspan></text>
+						<text id="XMLID_11_" transform="matrix(1 0 0 1 245.8184 412.5605)"><tspan x="0" y="0" class="st18 st19 st20">Libraries</tspan></text>
+						<text id="XMLID_10_" transform="matrix(1 0 0 1 496.8809 295.8574)"><tspan x="0" y="0" class="st21 st19 st20 st22">Faculty</tspan></text>
+						<text id="XMLID_9_" transform="matrix(1 0 0 1 364.248 385.8262)"><tspan x="0" y="0" class="st23 st19 st24">metadata</tspan></text>
+						<text id="XMLID_8_" transform="matrix(1 0 0 1 205.7324 457.2402)"><tspan x="0" y="0" class="st23 st19 st24">Institutional Repository</tspan></text>
+						<text id="XMLID_7_" transform="matrix(1 0 0 1 273.959 356.7871)"><tspan x="0" y="0" class="st23 st19 st24">Developers </tspan></text>
+						<text id="XMLID_6_" transform="matrix(1 0 0 1 356.5938 261.1309)"><tspan x="0" y="0" class="st21 st19 st20">Students</tspan></text>
+						<text id="XMLID_5_" transform="matrix(1 0 0 1 601.5449 185.9766)"><tspan x="0" y="0" class="st18 st19 st20">Information Technology</tspan></text>
+						<text id="XMLID_4_" transform="matrix(1 0 0 1 724.1563 391.9453)"><tspan x="0" y="0" class="st18 st19 st20">Center for</tspan></text>
+						<text id="XMLID_3_" transform="matrix(1 0 0 1 662.2344 415.9375)"><tspan x="0" y="0" class="st18 st19 st20">Computational Science</tspan></text>
+						<text id="XMLID_2_" transform="matrix(1 0 0 1 136.6387 383.3809)"><tspan x="0" y="0" class="st23 st19 st24">Leadership</tspan></text>
+						<text transform="matrix(1 0 0 1 548.6934 243.7813)"><tspan x="0" y="0" class="st29 st15 st20">data services</tspan></text>
+					</svg>
